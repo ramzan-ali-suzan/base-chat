@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-demo-bd48c": {
+      "hosting": {
+        "base-chat": [
+          "chat-demo-bd48c"
+        ]
+      }
+    }
+  }
+}
